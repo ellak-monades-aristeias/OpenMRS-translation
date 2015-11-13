@@ -43,5 +43,57 @@ OpenMRS, που προσφέρει ένα καλύτερο εργαλείο γι
 εγγραφής νέων ασθενών από την άνεση του σπιτιού τους. Τέλος, πέρα από την παροχή
 της κλινικής φροντίδας, το OpenMRS βοηθά και στην έρευνα.
 
+ 
+
+**Σύντομη περιγραφή παραδοτέου και συνοπτική τεκμηρίωση για τον τρόπο
+υλοποίησης**
+
+Εγκατάσταση και εξοικείωση με το σύστημα OpenMRS
+
+Στο παρόν παραδοτέο έγινε παρουσίαση των βημάτων που χρειάζονται για την
+εγκατάσταση του συστήματος καθώς και των τεχνικών διαδικασιών για την μετάφρασή
+του. Το παραδοτέο βρίσκεται στον εξής σύνδεσμο:
+<https://github.com/ellak-monades-aristeias/OpenMRS-translation/blob/master/deliverables/OpenMRS_translation_deliverable1.pdf>
+
+Μετάφραση συστήματος στην ελληνική γλώσσα
+
+Τα αρχεία της εφαρμογής στα οποία προχωρήσαμε στη μετάφρασή τους στην Ελληνική
+γλώσσα βρίσκονται στον εξής σύνδεσμο:
+<https://github.com/ellak-monades-aristeias/OpenMRS-translation/tree/master/deliverables/translation%20files/final>
+ 
+
+Σύνταξη Εγχειρίδιου Χρήσης στην ελληνική γλώσσα
+
+Στο παραδοτέο αυτό δημιουργήσαμε το εγχειρίδιο χρήσης του συστήματος OpenMRS
+στην Ελληνική γλώσσα. Περιγράφει τη διεπαφή χρήστη, τις δυνατότητες προσαρμογής
+του συστήματος, τις διαδικασίες εγγραφής ασθενών, τη διαχείριση χρηστών και τους
+τρόπους ελέγχου πρόσβασης. Το παραδοτέο βρίσκεται στον εξής σύνδεσμο:
+<https://github.com/ellak-monades-aristeias/OpenMRS-translation/blob/master/deliverables/OpenMRS_translation_deliverable3.pdf>
+
+Δημιουργία ηλεκτρονικού εκπαιδευτικού υλικού για την αυτοεκπαίδευση των
+ωφελούμενων του έργου
+
+Στο συγκεκριμένο τμήμα του έργου προχωρήσαμε στη δημιουργία ηλεκτρονικού
+εκπαιδευτικού υλικού για την αυτοεκπαίδευση ιατρών σχετικά με το σύστημα
+openMRS. Επιλέξαμε το σύστημα LAMS στο οποίο αναπτύξαμε το απαραίτητο υλικό. Το
+εκπαιδευτικό υλικό βρίσκεται στον εξής σύνδεσμό:
+<https://github.com/ellak-monades-aristeias/OpenMRS-translation/tree/master/deliverables/LAMS%20senario>
+. Το παραδοτέο σχετικά με τον τρόπο δημιουργίας και χρήσης του εκπαιδευτικού
+υλικού βρίσκεται στον εξής σύνδεσμό:
+ <https://github.com/ellak-monades-aristeias/OpenMRS-translation/blob/master/deliverables/OpenMRS_translation_deliverable4.pdf>
+
+Δημιουργία και Διάδοση Ενημερωτικού Υλικού
+
+Στο τελευταίο μέρος του έργου δημιουργήσαμε ενημερωτικό υλικό και προχωρήσαμε
+στη διεξαγωγή δύο ημερίδων-παρουσιάσεων σχετικά με το έργο που πραγματοποιήσαμε
+καθώς και τα οφέλη και τους τρόπους χρήσης του ελεύθερου λογισμικού OpenMRS. Το
+σχετικό ενημερωτικό υλικό θα το βρείτε στον εξής σύνδεσμο:
+<https://github.com/ellak-monades-aristeias/OpenMRS-translation/blob/master/deliverables/OpenMRS3_deliverable5_v1.pdf>
+. Το παραδοτέο σχετικά με τις δράσεις που προχωρήσαμε θα το βρείτε στον εξής
+σύνδεσμο:
+<https://github.com/ellak-monades-aristeias/OpenMRS-translation/blob/master/deliverables/OpenMRS_translation_deliverable5_v1.pdf>
+
+ 
+
 *URL του αποθετηρίου του έργου στο Github:*
 https://github.com/ellak-monades-aristeias/OpenMRS-translation.git
