@@ -31,7 +31,7 @@ Deliverable: Setup of the OpenMRS system
 
  
 
-Funded by Μονάδες Αριστείας Ανοιχτού Λογισμικού (ma.ellak.gr)
+
 
  
 
