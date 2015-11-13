@@ -96,8 +96,8 @@ openMRS. Επιλέξαμε το σύστημα LAMS στο οποίο αναπ�
  
 
 Αναλυτικές οδηγίες, για [τελικούς
-χρήστες](<https://github.com/ellak-monades-aristeias/GSLT/blob/master/%CE%9F%CE%B4%CE%B7%CE%B3%CE%AF%CE%B5%CF%82%20%CE%B3%CE%B9%CE%B1%20%CF%84%CE%B5%CE%BB%CE%B9%CE%BA%CE%BF%CF%8D%CF%82%20%CF%87%CF%81%CE%AE%CF%83%CF%84%CE%B5%CF%82.md>) και
-για [developers](<https://github.com/ellak-monades-aristeias/GSLT/blob/master/%CE%9F%CE%B4%CE%B7%CE%B3%CE%AF%CE%B5%CF%82%20%CE%B3%CE%B9%CE%B1%20Developers.md>)
+χρήστες](<https://github.com/ellak-monades-aristeias/OpenMRS-translation/blob/master/deliverables/OpenMRS_translation_deliverable1.md>) και
+για [developers](https://github.com/ellak-monades-aristeias/OpenMRS-translation/blob/master/deliverables/OpenMRS_translation_deliverable5_v1.pdf>)
 
  
 
