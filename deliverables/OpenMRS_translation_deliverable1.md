@@ -5,7 +5,7 @@
 *Project Title*: **Μετάφραση και διάδοση του ηλεκτρονικού ιατρικού φακέλου
 ανοικτού κώδικα OpenMRS, για την βελτίωση παροχής των υπηρεσιών Υγείας**
 
-Project Acronym: **OpenMRS translationd**
+Project Acronym: **OpenMRS translation**
 
  
 
