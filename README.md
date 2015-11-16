@@ -60,7 +60,7 @@ OpenMRS, που προσφέρει ένα καλύτερο εργαλείο γι
 Τα αρχεία της εφαρμογής στα οποία προχωρήσαμε στη μετάφρασή τους στην Ελληνική
 γλώσσα βρίσκονται στον εξής σύνδεσμο:
 <https://github.com/ellak-monades-aristeias/OpenMRS-translation/tree/master/deliverables/translation%20files/final>
- 
+
 
 Σύνταξη Εγχειρίδιου Χρήσης στην ελληνική γλώσσα
 
@@ -93,7 +93,9 @@ openMRS. Επιλέξαμε το σύστημα LAMS στο οποίο αναπ�
 σύνδεσμο:
 <https://github.com/ellak-monades-aristeias/OpenMRS-translation/blob/master/deliverables/OpenMRS_translation_deliverable5_v1.pdf>
 
- 
+## Σε ποίους απευθύνεται - Κοινότητες Χρηστών - Προγραμματιστών(Developers) ##
+...εδώ περιγράφετε τους δυνητικούς τελικούς χρήστες του έργου σας και τις κοινότητες χρηστών/developers που θα ενδιαφερόντουσαν να επεκτείνουν το έργο σας. ...
+
 
 Αναλυτικές οδηγίες, για [τελικούς
 χρήστες](<https://github.com/ellak-monades-aristeias/OpenMRS-translation/blob/master/deliverables/OpenMRS_translation_deliverable3.pdf>) και
