@@ -1,4 +1,4 @@
-![image\_OpenMRS](<http://i.imgur.com/O3EHRyg.png>)
+![](<openmrs_logo.png>)
 
 **Περιγραφή του έργου**
 -----------------------
@@ -61,7 +61,6 @@ OpenMRS, που προσφέρει ένα καλύτερο εργαλείο γι
 γλώσσα βρίσκονται στον εξής σύνδεσμο:
 <https://github.com/ellak-monades-aristeias/OpenMRS-translation/tree/master/deliverables/translation%20files/final>
 
-
 Σύνταξη Εγχειρίδιου Χρήσης στην ελληνική γλώσσα
 
 Στο παραδοτέο αυτό δημιουργήσαμε το εγχειρίδιο χρήσης του συστήματος OpenMRS
@@ -93,13 +92,18 @@ openMRS. Επιλέξαμε το σύστημα LAMS στο οποίο αναπ�
 σύνδεσμο:
 <https://github.com/ellak-monades-aristeias/OpenMRS-translation/blob/master/deliverables/OpenMRS_translation_deliverable5_v1.pdf>
 
-## Σε ποίους απευθύνεται - Κοινότητες Χρηστών - Προγραμματιστών(Developers) ##
-Οι δυνητικοί χρήστες του συστήματος είναι όλοι όσοι ασχολούνται με τον τομέα της υγείας και την παροχή υγειονομικής περίθαλψης, είτε στο δημόσιο είτε στον ιδιωτικό τομέα. Η κοινότητα των προγραμματιστών Java θα μπορούσε να συνεισφέρει ενεργά στο έργο καθώς και εκπαιδευτικοί για τον εμπλουτισμό του εκπαιδευτικού υλικού της εφαρμογής.
+Σε ποίους απευθύνεται - Κοινότητες Χρηστών - Προγραμματιστών(Developers)
+------------------------------------------------------------------------
 
+Οι δυνητικοί χρήστες του συστήματος είναι όλοι όσοι ασχολούνται με τον τομέα της
+υγείας και την παροχή υγειονομικής περίθαλψης, είτε στο δημόσιο είτε στον
+ιδιωτικό τομέα. Η κοινότητα των προγραμματιστών Java θα μπορούσε να συνεισφέρει
+ενεργά στο έργο καθώς και εκπαιδευτικοί για τον εμπλουτισμό του εκπαιδευτικού
+υλικού της εφαρμογής.
 
 Αναλυτικές οδηγίες, για [τελικούς
 χρήστες](<https://github.com/ellak-monades-aristeias/OpenMRS-translation/blob/master/deliverables/OpenMRS_translation_deliverable3.pdf>) και
-για [developers](https://github.com/ellak-monades-aristeias/OpenMRS-translation/blob/master/deliverables/OpenMRS_translation_deliverable1.md>)
+για [developers](<https://github.com/ellak-monades-aristeias/OpenMRS-translation/blob/master/deliverables/OpenMRS_translation_deliverable1.md>>)
 
  
 
